@@ -1,0 +1,284 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) G41 Express Chipset (Microsoft Corporation - WDDM 1.1) (ID=0x2e32)
+    Vendor:   Intel
+    VRAM:     847 MB
+    Driver:   8.15.10.1749
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Username\Desktop\Level Maker\Bulb Light Maker PC2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Username\Desktop\Level Maker\Bulb Light Maker PC2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Username\Desktop\Level Maker\Bulb Light Maker PC2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Username\Desktop\Level Maker\Bulb Light Maker PC2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Username\Desktop\Level Maker\Bulb Light Maker PC2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Username\Desktop\Level Maker\Bulb Light Maker PC2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Username\Desktop\Level Maker\Bulb Light Maker PC2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Username\Desktop\Level Maker\Bulb Light Maker PC2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Username\Desktop\Level Maker\Bulb Light Maker PC2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Username\Desktop\Level Maker\Bulb Light Maker PC2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Username\Desktop\Level Maker\Bulb Light Maker PC2_Data\Managed\LitJson.dll (this message is harmless)
+Loading C:\Users\Username\Desktop\Level Maker\Bulb Light Maker PC2_Data\Managed\LitJson.dll into Unity Child Domain
+- Completed reload, in  0.192 seconds
+Platform assembly: C:\Users\Username\Desktop\Level Maker\Bulb Light Maker PC2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Username\Desktop\Level Maker\Bulb Light Maker PC2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 6.458576 ms
+IsolatedStorageException: Could not find file "C:\Users\Username\Desktop\Level Maker\Bulb Light Maker PC2_Data\Resources\ItemsJson.json".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path, System.Text.Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path, System.Text.Encoding encoding) [0x00000] in <filename unknown>:0 
+  at System.IO.File.ReadAllText (System.String path, System.Text.Encoding encoding) [0x00000] in <filename unknown>:0 
+  at System.IO.File.ReadAllText (System.String path) [0x00000] in <filename unknown>:0 
+  at ReadJson+<Start>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+itemsDataString www 2|3|0|1|0|0|3|0|1|0|0|2|0|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fullyconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 2|3|0|1|0|0|3|0|1|0|0|2|0|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 2|3|0|1|0|0|3|0|1|0|0|2|0|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fullyconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 2|3|0|1|0|0|3|0|1|0|0|2|0|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 2|4|1|2|0|1|5|2|0|0|0|2|5|0|0|3|3|2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 2|4|1|2|0|1|5|2|0|0|0|2|5|0|0|3|3|2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fullyconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 3|3|0|1|5|2|0|0|5|3|2|0|5|1|3|2|1|0|3|2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fullyconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 3|3|0|1|5|2|0|0|5|3|2|0|5|1|3|2|1|0|3|2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 3|3|3|0|6|0|1|2|4|1|6|0|4|1|1|0|6|0|3|2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 3|3|3|0|6|0|1|2|4|1|6|0|4|1|1|0|6|0|3|2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fullyconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 4|4|0|1|4|0|5|2|0|0|5|3|5|2|5|1|4|1|5|3|5|0|5|0|5|1|0|2|3|3|1|3|0|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 4|4|0|1|4|0|5|2|0|0|5|3|5|2|5|1|4|1|5|3|5|0|5|0|5|1|0|2|3|3|1|3|0|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fullyconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 4|4|3|0|6|0|3|1|0|0|0|2|0|0|6|0|1|0|1|2|0|2|0|0|1|2|0|2|3|3|0|2|0|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 4|4|3|0|6|0|3|1|0|0|0|2|0|0|6|0|1|0|1|2|0|2|0|0|1|2|0|2|3|3|0|2|0|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fullyconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 4|4|3|0|1|2|3|0|3|0|1|0|4|1|4|1|1|0|0|1|0|3|0|2|0|0|0|2|4|0|4|0|0|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 4|4|3|0|1|2|3|0|3|0|1|0|4|1|4|1|1|0|0|1|0|3|0|2|0|0|0|2|4|0|4|0|0|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fullyconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 5|5|0|1|4|0|4|0|4|0|0|0|1|0|3|1|5|2|3|3|3|2|3|1|4|0|2|0|4|0|1|1|0|1|3|3|4|1|3|1|0|0|0|2|4|0|5|0|4|0|0|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 5|5|0|1|4|0|4|0|4|0|0|0|1|0|3|1|5|2|3|3|3|2|3|1|4|0|2|0|4|0|1|1|0|1|3|3|4|1|3|1|0|0|0|2|4|0|5|0|4|0|0|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fullyconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 5|5|0|1|4|0|5|2|5|2|0|0|5|3|4|0|5|1|4|1|4|1|5|3|4|0|2|0|5|0|5|1|0|2|0|0|4|1|0|1|0|3|3|1|0|3|1|0|0|2|3|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fullyconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 5|5|0|1|4|0|5|2|5|2|0|0|5|3|4|0|5|1|4|1|4|1|5|3|4|0|2|0|5|0|5|1|0|2|0|0|4|1|0|1|0|3|3|1|0|3|1|0|0|2|3|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 4|6|6|0|0|1|0|0|0|1|0|0|6|0|0|1|0|3|4|1|4|1|0|2|0|0|0|2|0|0|0|2|0|3|0|1|0|3|6|0|0|2|1|1|3|1|0|3|6|0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 4|6|6|0|0|1|0|0|0|1|0|0|6|0|0|1|0|3|4|1|4|1|0|2|0|0|0|2|0|0|0|2|0|3|0|1|0|3|6|0|0|2|1|1|3|1|0|3|6|0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fullyconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 5|4|0|1|4|0|4|0|0|0|0|2|0|0|0|1|0|3|0|1|5|0|5|0|0|0|3|2|0|1|0|0|3|2|6|0|0|2|0|3|6|0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 5|4|0|1|4|0|4|0|0|0|0|2|0|0|0|1|0|3|0|1|5|0|5|0|0|0|3|2|0|1|0|0|3|2|6|0|0|2|0|3|6|0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fullyconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 6|4|0|1|0|0|0|1|0|0|0|2|2|0|2|0|0|3|6|0|4|1|4|1|6|0|0|1|2|0|2|0|0|0|5|3|0|3|0|2|5|1|3|2|6|0|6|0|1|0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 6|4|0|1|0|0|0|1|0|0|0|2|2|0|2|0|0|3|6|0|4|1|4|1|6|0|0|1|2|0|2|0|0|0|5|3|0|3|0|2|5|1|3|2|6|0|6|0|1|0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fullyconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 6|3|1|3|4|0|3|3|3|1|5|2|3|3|0|1|2|0|0|0|5|3|2|0|5|1|0|2|2|0|0|3|3|1|5|0|1|1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 6|3|1|3|4|0|3|3|3|1|5|2|3|3|0|1|2|0|0|0|5|3|2|0|5|1|0|2|2|0|0|3|3|1|5|0|1|1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fullyconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 6|4|0|1|0|0|0|1|0|0|0|2|2|0|2|0|0|3|6|0|4|1|4|1|6|0|0|1|2|0|2|0|0|0|5|3|0|3|0|2|5|1|3|2|6|0|6|0|1|0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fullyconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 6|4|0|1|0|0|0|1|0|0|0|2|2|0|2|0|0|3|6|0|4|1|4|1|6|0|0|1|2|0|2|0|0|0|5|3|0|3|0|2|5|1|3|2|6|0|6|0|1|0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 6|4|0|1|0|0|0|1|0|0|0|2|2|0|2|0|0|3|6|0|4|1|4|1|6|0|0|1|2|0|2|0|0|0|5|3|0|3|0|2|5|1|3|2|6|0|6|0|1|0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 6|4|0|1|0|0|0|1|0|0|0|2|2|0|2|0|0|3|6|0|4|1|4|1|6|0|0|1|2|0|2|0|0|0|5|3|0|3|0|2|5|1|3|2|6|0|6|0|1|0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fullyconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 6|4|0|1|0|0|0|1|0|0|0|2|2|0|2|0|0|3|6|0|4|1|4|1|6|0|0|1|2|0|2|0|0|0|5|3|0|3|0|2|5|1|3|2|6|0|6|0|1|0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 6|4|0|1|0|0|0|1|0|0|0|2|2|0|2|0|0|3|6|0|4|1|4|1|6|0|0|1|2|0|2|0|0|0|5|3|0|3|0|2|5|1|3|2|6|0|6|0|1|0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fullyconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 6|3|1|3|4|0|3|3|3|1|5|2|3|3|0|1|2|0|0|0|5|3|2|0|5|1|0|2|2|0|0|3|3|1|5|0|1|1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 6|3|1|3|4|0|3|3|3|1|5|2|3|3|0|1|2|0|0|0|5|3|2|0|5|1|0|2|2|0|0|3|3|1|5|0|1|1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fullyconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 6|3|3|0|0|1|0|0|4|1|0|2|0|3|5|3|4|0|1|1|4|1|0|1|0|0|3|2|5|3|5|1|6|0|0|2|0|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fullyconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 6|3|3|0|0|1|0|0|4|1|0|2|0|3|5|3|4|0|1|1|4|1|0|1|0|0|3|2|5|3|5|1|6|0|0|2|0|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 5|3|0|1|4|0|1|1|4|1|3|1|0|0|4|1|0|1|5|1|0|2|5|1|4|1|3|1|5|0|0|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+itemsDataString www 5|3|0|1|4|0|1|1|4|1|3|1|0|0|4|1|0|1|5|1|0|2|5|1|4|1|3|1|5|0|0|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fullyconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: a6c -> priority: 1 
